@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+.navigation {
+  list-style: none;
+}
+.navigation li{
+  display: inline;
+  padding: 10px;
+  font-size: 25px;
+  text-decoration: none;
+}
+.navigation li Link {
+  text-decoration: none;
+}
